@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Snap Split</string>
+
+    <string-array name="houseItems">
+        <item>Select Image Category ...</item>
+        <item>Table</item>
+        <item>Chair</item>
+        <item>Fan</item>
+        <item>Thermostat</item>
+        <item>CupBoard</item>
+        <item>Drawer</item>
+        <item>Mattress</item>
+        <item>Lamp</item>
+    </string-array>
+
+</resources>
